@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bagged.outliertrees"]
+	path = bagged.outliertrees
+	url = https://github.com/rafajpsantos/bagged.outliertrees
+	shallow = true
+	registered = true
